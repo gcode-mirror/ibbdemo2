@@ -12,13 +12,21 @@ iBBDemo2 was built as an Air application using the Flash Builder 4 IDE.  You'll 
 = Keys = 
 
 Activate iPad Simulation - CTRL-1
+
 Activate iPhone Simulation -  CTRL-2
+
 Change Orientation - CTRL-RIGHT/LEFT Arrows
+
 Zoom in - CTRL +
+
 Zoom out - CTRL -
+
 Scroll Content - Mouse wheel or click on content and use arrow keys
+
 Enable/Disable Flash Support (defaults OFF) - CTRL-SHIFT-F **Experimental/Flaky feature :)
+
 iPhone Show Address Bar - Mouse over the top of the "phone."
+
 iPhone Toggle Address Bar - CTRL-D
 
 
