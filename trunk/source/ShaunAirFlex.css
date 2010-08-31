@@ -1,0 +1,29 @@
+/*
+
+iBBDemo2
+Copyright (c) 2010 Shaun Sullivan, Blackbaud
+
+All rights reserved.
+shaun.sullivan@blackbaud.com
+
+Open Source License
+===================
+iBBDemo2 is licensed under the terms of the Open Source GPL 3.0 license. 
+
+http://www.gnu.org/licenses/gpl.html
+
+
+*/
+
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+
+
+global
+{
+	content-background-alpha: 0.0;
+	background-image:"";
+	padding: 0px;
+	
+}
+	
